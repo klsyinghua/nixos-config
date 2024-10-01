@@ -9,7 +9,7 @@
     ../../user/app/git/git.nix
     ../../user/app/flatpak/flatpak.nix
     ../../user/shell/sh.nix
-    ../../user/app/nvim/nvim.nix
+    ../../user/app/nixvim/nixvim.nix
   ];
 
   home.username = "alan";
